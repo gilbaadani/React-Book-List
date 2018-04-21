@@ -1,0 +1,22 @@
+{
+  "name": "crud",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.22.1",
+    "prop-types": "^15.6.1",
+    "rc-datepicker": "^5.0.12",
+    "react": "^16.3.2",
+    "react-date-picker": "^6.10.1",
+    "react-date-picker-cs": "^0.1.28",
+    "react-datepicker": "^1.4.1",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
